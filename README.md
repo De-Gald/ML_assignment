@@ -1,4 +1,4 @@
-# ML Assignment 1
+# ML Assignment
 
 ## Downloading data
 
